@@ -87,52 +87,242 @@ const resources = {
             "exit_fullscreen": "Salir",
             "lang_selector": "Idioma:"
         }
+    },
+    fr: {
+        translation: {
+            "title": "KIWI Token",
+            "description": "KIWI est un jeton sur le réseau Blum sans objectif, revendications ou promesses. Pour l'instant, vous pouvez acheter et vendre KIWI via Blum. N'oubliez pas de parler de KIWI à vos amis, de créer du contenu à son sujet et de nous suivre sur X !",
+            "x_account": "VISITEZ NOTRE COMPTE X !",
+            "how_to_buy": "Comment puis-je acheter des jetons KIWI ?",
+            "step1": "Démarrez Blum via Telegram.",
+            "step2": "Connectez votre portefeuille crypto à Blum.",
+            "step3": "Transférez le montant que vous souhaitez acheter sous forme de <span style='color: #0088cc;'>TON</span> vers votre portefeuille crypto.",
+            "step4": "Cliquez sur le lien pour accéder à KIWI et commencer à trader.",
+            "buy_button": "OBTENEZ LE JETON KIWI !",
+            "disclaimer": "Avis de non-responsabilité : KIWI est un actif numérique indépendant et axé sur la communauté. Il n'est affilié à aucune entreprise, marque ou organisation. Ce n'est pas un conseil d'investissement, l'utilisation est entièrement sous la responsabilité de l'utilisateur.",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "Plein Écran",
+            "exit_fullscreen": "Quitter",
+            "lang_selector": "Langue :"
+        }
+    },
+    it: {
+        translation: {
+            "title": "KIWI Token",
+            "description": "KIWI è un token sulla rete Blum senza scopo, pretese o promesse. Per ora, puoi comprare e vendere KIWI tramite Blum. Non dimenticare di parlare di KIWI ai tuoi amici, creare contenuti su di esso e seguirci su X!",
+            "x_account": "VISITA IL NOSTRO ACCOUNT X!",
+            "how_to_buy": "Come posso acquistare il token KIWI?",
+            "step1": "Avvia Blum tramite Telegram.",
+            "step2": "Collega il tuo portafoglio crypto a Blum.",
+            "step3": "Trasferisci l'importo che desideri acquistare come <span style='color: #0088cc;'>TON</span> al tuo portafoglio crypto.",
+            "step4": "Clicca sul link per accedere a KIWI e iniziare a fare trading.",
+            "buy_button": "OTTIENI IL TOKEN KIWI!",
+            "disclaimer": "Disclaimer: KIWI è un asset digitale indipendente e incentrato sulla comunità. Non è affiliato a nessuna azienda, marchio o organizzazione. Questo non è un consiglio di investimento, l'uso è interamente a rischio dell'utente.",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "Schermo Intero",
+            "exit_fullscreen": "Esci",
+            "lang_selector": "Lingua:"
+        }
+    },
+    pt: {
+        translation: {
+            "title": "KIWI Token",
+            "description": "KIWI é um token na rede Blum sem propósito, alegações ou promessas. Por enquanto, você pode comprar e vender KIWI através do Blum. Não se esqueça de contar aos seus amigos sobre o KIWI, criar conteúdo sobre ele e nos seguir no X!",
+            "x_account": "VISITE NOSSA CONTA NO X!",
+            "how_to_buy": "Como posso comprar o token KIWI?",
+            "step1": "Inicie o Blum pelo Telegram.",
+            "step2": "Conecte sua carteira cripto ao Blum.",
+            "step3": "Transfira o valor que deseja comprar como <span style='color: #0088cc;'>TON</span> para sua carteira cripto.",
+            "step4": "Clique no link para acessar o KIWI e começar a negociar.",
+            "buy_button": "OBTENHA O TOKEN KIWI!",
+            "disclaimer": "Aviso legal: KIWI é um ativo digital independente e focado na comunidade. Não está afiliado a nenhuma empresa, marca ou organização. Isso não é um conselho de investimento, o uso é inteiramente por conta e risco do usuário.",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "Tela Cheia",
+            "exit_fullscreen": "Sair",
+            "lang_selector": "Idioma:"
+        }
+    },
+    ru: {
+        translation: {
+            "title": "KIWI Токен",
+            "description": "KIWI — это токен в сети Blum, не имеющий цели, претензий или обещаний. Пока что вы можете покупать и продавать KIWI через Blum. Не забудьте рассказать своим друзьям о KIWI, создавать контент о нем и подписаться на нас в X!",
+            "x_account": "ПОСЕТИТЕ НАШ АККАУНТ В X!",
+            "how_to_buy": "Как я могу купить токен KIWI?",
+            "step1": "Запустите Blum через Telegram.",
+            "step2": "Подключите свой криптокошелек к Blum.",
+            "step3": "Переведите сумму, которую хотите купить, в виде <span style='color: #0088cc;'>TON</span> на свой криптокошелек.",
+            "step4": "Нажмите на ссылку, чтобы получить доступ к KIWI и начать торговлю.",
+            "buy_button": "ПОЛУЧИТЬ ТОКЕН KIWI!",
+            "disclaimer": "Отказ от ответственности: KIWI — это независимый цифровой актив, ориентированный на сообщество. Он не связан ни с какой компанией, брендом или организацией. Это не инвестиционный совет, использование полностью на ответственности пользователя.",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "Полный экран",
+            "exit_fullscreen": "Выход",
+            "lang_selector": "Язык:"
+        }
+    },
+    ja: {
+        translation: {
+            "title": "KIWI トークン",
+            "description": "KIWIは、目的、主張、約束のないBlumネットワーク上のトークンです。現在、Blumを通じてKIWIを売買できます。友達にKIWIについて教えること、それに関するコンテンツを作成すること、そしてXで私たちをフォローすることを忘れないでください！",
+            "x_account": "X アカウントにアクセス！",
+            "how_to_buy": "KIWIトークンを購入するにはどうすればよいですか？",
+            "step1": "Telegramを通じてBlumを起動します。",
+            "step2": "暗号ウォレットをBlumに接続します。",
+            "step3": "購入したい金額を<span style='color: #0088cc;'>TON</span>として暗号ウォレットに転送します。",
+            "step4": "リンクをクリックしてKIWIにアクセスし、取引を開始します。",
+            "buy_button": "KIWIトークンを取得！",
+            "disclaimer": "免責事項：KIWIは、独立したコミュニティ中心のデジタル資産です。いかなる企業、ブランド、組織とも提携していません。これは投資アドバイスではなく、使用は完全にユーザー自身の責任で行われます。",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "全画面表示",
+            "exit_fullscreen": "終了",
+            "lang_selector": "言語："
+        }
+    },
+    ko: {
+        translation: {
+            "title": "KIWI 토큰",
+            "description": "KIWI는 목적, 주장 또는 약속이 없는 Blum 네트워크의 토큰입니다. 현재 Blum을 통해 KIWI를 사고 팔 수 있습니다. 친구들에게 KIWI에 대해 알리고, 관련 콘텐츠를 만들고, X에서 우리를 팔로우하는 것을 잊지 마세요!",
+            "x_account": "X 계정 방문!",
+            "how_to_buy": "KIWI 토큰을 어떻게 구매할 수 있나요?",
+            "step1": "텔레그램을 통해 Blum을 시작하세요.",
+            "step2": "암호화폐 지갑을 Blum에 연결하세요.",
+            "step3": "구매하려는 금액을 <span style='color: #0088cc;'>TON</span>으로 암호화폐 지갑에 전송하세요.",
+            "step4": "링크를 클릭하여 KIWI에 접근하고 거래를 시작하세요.",
+            "buy_button": "KIWI 토큰 받기!",
+            "disclaimer": "면책 조항: KIWI는 독립적이고 커뮤니티 중심의 디지털 자산입니다. 어떤 회사, 브랜드 또는 조직과도 제휴하지 않습니다. 이는 투자 조언이 아니며, 사용은 전적으로 사용자 책임하에 있습니다.",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "전체 화면",
+            "exit_fullscreen": "나가기",
+            "lang_selector": "언어:"
+        }
+    },
+    zh: {
+        translation: {
+            "title": "KIWI 代币",
+            "description": "KIWI 是 Blum 网络上的代币，没有目的、主张或承诺。目前，您可以通过 Blum 买卖 KIWI。别忘了告诉你的朋友关于 KIWI 的信息，创建有关它的内容，并在 X 上关注我们！",
+            "x_account": "访问我们的 X 账户！",
+            "how_to_buy": "我如何购买 KIWI 代币？",
+            "step1": "通过 Telegram 启动 Blum。",
+            "step2": "将您的加密钱包连接到 Blum。",
+            "step3": "将您想要购买的金额作为 <span style='color: #0088cc;'>TON</span> 转入您的加密钱包。",
+            "step4": "点击链接访问 KIWI 并开始交易。",
+            "buy_button": "获取 KIWI 代币！",
+            "disclaimer": "免责声明：KIWI 是一种独立的、以社区为中心的数字资产。它不隶属于任何公司、品牌或组织。这不是投资建议，使用完全由用户自行负责。",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "全屏",
+            "exit_fullscreen": "退出",
+            "lang_selector": "语言："
+        }
+    },
+    ar: {
+        translation: {
+            "title": "رمز KIWI",
+            "description": "KIWI هو رمز على شبكة Blum بدون هدف أو مطالبات أو وعود. في الوقت الحالي، يمكنك شراء وبيع KIWI من خلال Blum. لا تنس أن تخبر أصدقائك عن KIWI، وإنشاء محتوى حوله، ومتابعتنا على X!",
+            "x_account": "قم بزيارة حسابنا على X!",
+            "how_to_buy": "كيف يمكنني شراء رمز KIWI؟",
+            "step1": "ابدأ Blum عبر Telegram.",
+            "step2": "قم بتوصيل محفظة العملات المشفرة الخاصة بك بـ Blum.",
+            "step3": "قم بتحويل المبلغ الذي تريد شراءه كـ <span style='color: #0088cc;'>TON</span> إلى محفظة العملات المشفرة الخاصة بك.",
+            "step4": "انقر على الرابط للوصول إلى KIWI وبدء التداول.",
+            "buy_button": "احصل على رمز KIWI!",
+            "disclaimer": "إخلاء المسؤولية: KIWI هو أصل رقمي مستقل ومركز على المجتمع. وهو غير مرتبط بأي شركة أو علامة تجارية أو منظمة. هذه ليست نصيحة استثمارية، الاستخدام يكون تحت مسؤولية المستخدم بالكامل.",
+            "just_kiwi": "Just Kiwi",
+            "fullscreen": "ملء الشاشة",
+            "exit_fullscreen": "خروج",
+            "lang_selector": "اللغة:"
+        }
     }
 };
 
 function initializeI18n() {
-    // Tarayıcı dilini algıla
-    const browserLang = navigator.language.split('-')[0];
-    
-    // Kayıtlı dil tercihi varsa al, yoksa tarayıcı dilini veya varsayılan olarak Türkçe kullan
-    const savedLang = localStorage.getItem('kiwi-language');
-    const initialLang = savedLang || (resources[browserLang] ? browserLang : 'tr');
-    
-    // i18next'i başlat
-    i18next
-        .init({
-            lng: initialLang,
-            fallbackLng: 'tr',
-            debug: false,
-            resources: resources
-        })
-        .then(function() {
-            // Yükleme göstergesini kaldır
-            const loadingIndicator = document.getElementById('loading-language');
-            if (loadingIndicator) {
-                loadingIndicator.style.display = 'none';
-            }
-            
-            // Sayfa içeriğini güncelle
-            updateContent();
-            
-            // Dil seçici ekle
-            addLanguageSelector();
-        });
+    try {
+        // Tarayıcı dilini algıla
+        let browserLang = navigator.language.split('-')[0];
+        
+        // URL'den dil parametresini kontrol et
+        const urlParams = new URLSearchParams(window.location.search);
+        const urlLang = urlParams.get('lang');
+        
+        // Kayıtlı dil tercihi varsa al, yoksa URL dilini, o da yoksa tarayıcı dilini veya varsayılan olarak Türkçe kullan
+        const savedLang = localStorage.getItem('kiwi-language');
+        const initialLang = urlLang || savedLang || (resources[browserLang] ? browserLang : 'tr');
+        
+        // i18next'i başlat
+        i18next
+            .init({
+                lng: initialLang,
+                fallbackLng: 'tr',
+                debug: false,
+                resources: resources
+            })
+            .then(function() {
+                // Yükleme göstergesini kaldır
+                const loadingIndicator = document.getElementById('loading-language');
+                if (loadingIndicator) {
+                    loadingIndicator.style.display = 'none';
+                }
+                
+                // Sayfa içeriğini güncelle
+                updateContent();
+                
+                // Dil seçici ekle
+                addLanguageSelector();
+                
+                // URL'ye dil parametresi ekle (history API kullanarak, sayfa yenilenmeden)
+                if (!urlLang && initialLang !== 'tr') {
+                    updateURLWithLanguage(initialLang);
+                }
+            });
+    } catch (error) {
+        console.error("Dil sistemi başlatılırken hata oluştu:", error);
+        // Hata durumunda yükleme göstergesini kaldır
+        const loadingIndicator = document.getElementById('loading-language');
+        if (loadingIndicator) {
+            loadingIndicator.style.display = 'none';
+        }
+    }
+}
+
+// URL'ye dil parametresi ekle
+function updateURLWithLanguage(lang) {
+    try {
+        if (!lang || lang === 'tr') return; // Varsayılan dil için URL'yi değiştirme
+        
+        const url = new URL(window.location.href);
+        url.searchParams.set('lang', lang);
+        
+        // History API'yi kullanarak URL'yi güncelle (sayfa yenilenmeden)
+        window.history.replaceState({}, '', url.toString());
+    } catch (error) {
+        console.error("URL dil parametresi güncellenirken hata:", error);
+    }
 }
 
 // Sayfa içeriğini güncelle
 function updateContent() {
+    // HTML dil özelliğini güncelle
+    document.documentElement.lang = i18next.language;
+    
+    // HTML yönünü ayarla (Arapça için sağdan sola)
+    document.documentElement.dir = i18next.language === 'ar' ? 'rtl' : 'ltr';
+    
     // Sayfa başlığı
     document.title = i18next.t('title');
     
     // Meta etiketleri güncelle
-    document.querySelector('meta[name="description"]').setAttribute('content', i18next.t('description'));
-    document.querySelector('meta[property="og:description"]').setAttribute('content', i18next.t('description'));
-    document.querySelector('meta[name="twitter:description"]').setAttribute('content', i18next.t('description'));
+    const metaTags = [
+        document.querySelector('meta[name="description"]'),
+        document.querySelector('meta[property="og:description"]'),
+        document.querySelector('meta[name="twitter:description"]')
+    ];
+    
+    metaTags.forEach(tag => {
+        if (tag) tag.setAttribute('content', i18next.t('description'));
+    });
     
     // Ana başlık
-    document.querySelector('.kiwi-title').textContent = i18next.t('title');
+    const titleElement = document.querySelector('.kiwi-title');
+    if (titleElement) titleElement.textContent = i18next.t('title');
     
     // Açıklama metni
     const descriptionP = document.querySelector('.description p');
@@ -143,10 +333,12 @@ function updateContent() {
     }
     
     // X hesabı butonu
-    document.querySelector('.buttons .btn').textContent = i18next.t('x_account');
+    const xButton = document.querySelector('.buttons .btn');
+    if (xButton) xButton.textContent = i18next.t('x_account');
     
     // Nasıl alınır başlığı
-    document.querySelector('.subtitle').textContent = i18next.t('how_to_buy');
+    const subtitleElement = document.querySelector('.subtitle');
+    if (subtitleElement) subtitleElement.textContent = i18next.t('how_to_buy');
     
     // Adımlar
     const steps = document.querySelectorAll('.steps li');
@@ -157,15 +349,32 @@ function updateContent() {
         // 2. adım
         steps[1].innerHTML = i18next.t('step2');
         
-        // 3. adım için TON linki
-        steps[2].innerHTML = `<a href="https://ton.org/${i18next.language === 'tr' ? 'tr' : 'en'}" target="_blank" rel="noopener" class="ton-link">${i18next.t('step3')}</a>`;
+        // 3. adım için TON linki - dilin varsa kendi sayfasına, yoksa İngilizce'ye yönlendir
+        const tonLangMapping = {
+            'tr': 'tr',
+            'en': 'en',
+            'ru': 'ru',
+            'zh': 'zh-hans', // Çince için özel yol
+            'es': 'es',
+            'fr': 'fr',
+            'de': 'de',
+            'ar': 'ar',
+            'it': 'it',
+            'pt': 'pt-br',
+            'ja': 'ja',
+            'ko': 'ko'
+        };
+        
+        const tonLang = tonLangMapping[i18next.language] || 'en';
+        steps[2].innerHTML = `<a href="https://ton.org/${tonLang}" target="_blank" rel="noopener" class="ton-link">${i18next.t('step3')}</a>`;
         
         // 4. adım
         steps[3].innerHTML = i18next.t('step4');
     }
     
     // Satın alma butonu
-    document.querySelector('.buy-button .btn').textContent = i18next.t('buy_button');
+    const buyButton = document.querySelector('.buy-button .btn');
+    if (buyButton) buyButton.textContent = i18next.t('buy_button');
     
     // Yasal uyarı
     const disclaimerP = document.querySelector('.disclaimer p');
@@ -174,7 +383,8 @@ function updateContent() {
     }
     
     // Just Kiwi
-    document.querySelector('.just-kiwi').textContent = i18next.t('just_kiwi');
+    const justKiwi = document.querySelector('.just-kiwi');
+    if (justKiwi) justKiwi.textContent = i18next.t('just_kiwi');
     
     // Tam ekran butonu
     const fullscreenButton = document.getElementById('fullscreen-button');
@@ -197,6 +407,7 @@ function changeLanguage(lang) {
     i18next.changeLanguage(lang).then(() => {
         localStorage.setItem('kiwi-language', lang);
         updateContent();
+        updateURLWithLanguage(lang);
     });
 }
 
@@ -207,111 +418,4 @@ function addLanguageSelector() {
     languageSelector.innerHTML = `
         <label for="lang-select">${i18next.t('lang_selector')}</label>
         <select id="lang-select">
-            <option value="tr">Türkçe</option>
-            <option value="en">English</option>
-            <option value="de">Deutsch</option>
-            <option value="es">Español</option>
-        </select>
-    `;
-    
-    document.body.appendChild(languageSelector);
-    
-    // Mevcut dili seç
-    document.getElementById('lang-select').value = i18next.language;
-    
-    // Dil değiştirme olayını ekle
-    document.getElementById('lang-select').addEventListener('change', function() {
-        changeLanguage(this.value);
-    });
-    
-    // Fullscreen olayını güncelle
-    const originalUpdateFullscreenButton = window.updateFullscreenButton || function() {};
-    window.updateFullscreenButton = function() {
-        originalUpdateFullscreenButton();
-        
-        const fullscreenButton = document.getElementById('fullscreen-button');
-        if (fullscreenButton) {
-            if (document.fullscreenElement || 
-                document.mozFullScreenElement || 
-                document.webkitFullscreenElement || 
-                document.msFullscreenElement) {
-                fullscreenButton.textContent = i18next.t('exit_fullscreen');
-            } else {
-                fullscreenButton.textContent = i18next.t('fullscreen');
-            }
-        }
-    };
-}
-
-// CSS stilleri
-const styleElement = document.createElement('style');
-styleElement.textContent = `
-.language-selector {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    background-color: rgba(255, 255, 255, 0.9);
-    padding: 8px 12px;
-    border-radius: 8px;
-    z-index: 1001;
-    font-family: 'Inconsolata', monospace;
-    display: flex;
-    align-items: center;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
-    transition: all 0.3s ease;
-}
-
-.language-selector:hover {
-    background-color: white;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-}
-
-.language-selector label {
-    margin-right: 8px;
-    font-weight: bold;
-    font-size: 14px;
-    color: #464631;
-}
-
-.language-selector select {
-    padding: 4px 8px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    background-color: white;
-    font-family: 'Inconsolata', monospace;
-    font-size: 14px;
-    cursor: pointer;
-    color: #464631;
-    transition: all 0.2s ease;
-}
-
-.language-selector select:hover {
-    border-color: #97ca3f;
-}
-
-.language-selector select:focus {
-    outline: none;
-    border-color: #97ca3f;
-    box-shadow: 0 0 0 2px rgba(151, 202, 63, 0.3);
-}
-
-/* Mobil için ayarlar */
-@media (max-width: 768px) {
-    .language-selector {
-        top: 5px;
-        right: 5px;
-        padding: 5px 8px;
-    }
-    
-    .language-selector label {
-        font-size: 12px;
-    }
-    
-    .language-selector select {
-        font-size: 12px;
-        padding: 3px 6px;
-    }
-}
-`;
-
-document.head.appendChild(styleElement);
+            <option value
