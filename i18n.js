@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
 const resources = {
     tr: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI, Blum ağında bulunan, amacı, iddiası veya vaatleri olmayan bir tokendir. Şimdilik KIWI'yi Blum üzerinden alıp satabilirsin. Arkadaşlarına KIWI'den bahsetmeyi, hakkında içerikler üretmeyi ve bizi X'te takip etmeyi unutma!",
             "x_account": "X HESABIMIZA ULAŞ!",
             "how_to_buy": "Nasıl KIWI token alabilirim?",
@@ -36,7 +36,7 @@ const resources = {
     },
     en: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI is a token on the Blum network with no purpose, claims, or promises. For now, you can buy and sell KIWI through Blum. Don't forget to tell your friends about KIWI, create content about it, and follow us on X!",
             "x_account": "VISIT OUR X ACCOUNT!",
             "how_to_buy": "How can I buy KIWI token?",
@@ -54,7 +54,7 @@ const resources = {
     },
     de: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI ist ein Token im Blum-Netzwerk ohne Zweck, Ansprüche oder Versprechen. Momentan kannst du KIWI über Blum kaufen und verkaufen. Vergiss nicht, deinen Freunden von KIWI zu erzählen, Inhalte darüber zu erstellen und uns auf X zu folgen!",
             "x_account": "BESUCHE UNSEREN X-ACCOUNT!",
             "how_to_buy": "Wie kann ich KIWI-Token kaufen?",
@@ -72,7 +72,7 @@ const resources = {
     },
     es: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI es un token en la red Blum sin propósito, afirmaciones o promesas. Por ahora, puedes comprar y vender KIWI a través de Blum. ¡No olvides contarles a tus amigos sobre KIWI, crear contenido al respecto y seguirnos en X!",
             "x_account": "¡VISITA NUESTRA CUENTA DE X!",
             "how_to_buy": "¿Cómo puedo comprar tokens KIWI?",
@@ -90,7 +90,7 @@ const resources = {
     },
     fr: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI est un jeton sur le réseau Blum sans objectif, revendications ou promesses. Pour l'instant, vous pouvez acheter et vendre KIWI via Blum. N'oubliez pas de parler de KIWI à vos amis, de créer du contenu à son sujet et de nous suivre sur X !",
             "x_account": "VISITEZ NOTRE COMPTE X !",
             "how_to_buy": "Comment puis-je acheter des jetons KIWI ?",
@@ -108,7 +108,7 @@ const resources = {
     },
     it: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI è un token sulla rete Blum senza scopo, pretese o promesse. Per ora, puoi comprare e vendere KIWI tramite Blum. Non dimenticare di parlare di KIWI ai tuoi amici, creare contenuti su di esso e seguirci su X!",
             "x_account": "VISITA IL NOSTRO ACCOUNT X!",
             "how_to_buy": "Come posso acquistare il token KIWI?",
@@ -126,7 +126,7 @@ const resources = {
     },
     pt: {
         translation: {
-            "title": "KIWI Token",
+            "title": "KIWI",
             "description": "KIWI é um token na rede Blum sem propósito, alegações ou promessas. Por enquanto, você pode comprar e vender KIWI através do Blum. Não se esqueça de contar aos seus amigos sobre o KIWI, criar conteúdo sobre ele e nos seguir no X!",
             "x_account": "VISITE NOSSA CONTA NO X!",
             "how_to_buy": "Como posso comprar o token KIWI?",
@@ -144,7 +144,7 @@ const resources = {
     },
     ru: {
         translation: {
-            "title": "KIWI Токен",
+            "title": "KIWI",
             "description": "KIWI — это токен в сети Blum, не имеющий цели, претензий или обещаний. Пока что вы можете покупать и продавать KIWI через Blum. Не забудьте рассказать своим друзьям о KIWI, создавать контент о нем и подписаться на нас в X!",
             "x_account": "ПОСЕТИТЕ НАШ АККАУНТ В X!",
             "how_to_buy": "Как я могу купить токен KIWI?",
@@ -162,7 +162,7 @@ const resources = {
     },
     ja: {
         translation: {
-            "title": "KIWI トークン",
+            "title": "KIWI",
             "description": "KIWIは、目的、主張、約束のないBlumネットワーク上のトークンです。現在、Blumを通じてKIWIを売買できます。友達にKIWIについて教えること、それに関するコンテンツを作成すること、そしてXで私たちをフォローすることを忘れないでください！",
             "x_account": "X アカウントにアクセス！",
             "how_to_buy": "KIWIトークンを購入するにはどうすればよいですか？",
@@ -180,7 +180,7 @@ const resources = {
     },
     ko: {
         translation: {
-            "title": "KIWI 토큰",
+            "title": "KIWI",
             "description": "KIWI는 목적, 주장 또는 약속이 없는 Blum 네트워크의 토큰입니다. 현재 Blum을 통해 KIWI를 사고 팔 수 있습니다. 친구들에게 KIWI에 대해 알리고, 관련 콘텐츠를 만들고, X에서 우리를 팔로우하는 것을 잊지 마세요!",
             "x_account": "X 계정 방문!",
             "how_to_buy": "KIWI 토큰을 어떻게 구매할 수 있나요?",
@@ -198,7 +198,7 @@ const resources = {
     },
     zh: {
         translation: {
-            "title": "KIWI 代币",
+            "title": "KIWI",
             "description": "KIWI 是 Blum 网络上的代币，没有目的、主张或承诺。目前，您可以通过 Blum 买卖 KIWI。别忘了告诉你的朋友关于 KIWI 的信息，创建有关它的内容，并在 X 上关注我们！",
             "x_account": "访问我们的 X 账户！",
             "how_to_buy": "我如何购买 KIWI 代币？",
@@ -216,7 +216,7 @@ const resources = {
     },
     ar: {
         translation: {
-            "title": "رمز KIWI",
+            "title": "KIWI",
             "description": "KIWI هو رمز على شبكة Blum بدون هدف أو مطالبات أو وعود. في الوقت الحالي، يمكنك شراء وبيع KIWI من خلال Blum. لا تنس أن تخبر أصدقائك عن KIWI، وإنشاء محتوى حوله، ومتابعتنا على X!",
             "x_account": "قم بزيارة حسابنا على X!",
             "how_to_buy": "كيف يمكنني شراء رمز KIWI؟",
@@ -310,12 +310,19 @@ function updateContent() {
     document.title = i18next.t('title');
     
     // Meta etiketleri güncelle
-    document.querySelector('meta[name="description"]').setAttribute('content', i18next.t('description'));
-    document.querySelector('meta[property="og:description"]').setAttribute('content', i18next.t('description'));
-    document.querySelector('meta[name="twitter:description"]').setAttribute('content', i18next.t('description'));
+    const metaTags = [
+        document.querySelector('meta[name="description"]'),
+        document.querySelector('meta[property="og:description"]'),
+        document.querySelector('meta[name="twitter:description"]')
+    ];
+    
+    metaTags.forEach(tag => {
+        if (tag) tag.setAttribute('content', i18next.t('description'));
+    });
     
     // Ana başlık
-    document.querySelector('.kiwi-title').textContent = i18next.t('title');
+    const titleElement = document.querySelector('.kiwi-title');
+    if (titleElement) titleElement.textContent = i18next.t('title');
     
     // Açıklama metni
     const descriptionP = document.querySelector('.description p');
@@ -326,10 +333,12 @@ function updateContent() {
     }
     
     // X hesabı butonu
-    document.querySelector('.buttons .btn').textContent = i18next.t('x_account');
+    const xButton = document.querySelector('.buttons .btn');
+    if (xButton) xButton.textContent = i18next.t('x_account');
     
     // Nasıl alınır başlığı
-    document.querySelector('.subtitle').textContent = i18next.t('how_to_buy');
+    const subtitleElement = document.querySelector('.subtitle');
+    if (subtitleElement) subtitleElement.textContent = i18next.t('how_to_buy');
     
     // Adımlar
     const steps = document.querySelectorAll('.steps li');
@@ -364,7 +373,8 @@ function updateContent() {
     }
     
     // Satın alma butonu
-    document.querySelector('.buy-button .btn').textContent = i18next.t('buy_button');
+    const buyButton = document.querySelector('.buy-button .btn');
+    if (buyButton) buyButton.textContent = i18next.t('buy_button');
     
     // Yasal uyarı
     const disclaimerP = document.querySelector('.disclaimer p');
@@ -373,7 +383,8 @@ function updateContent() {
     }
     
     // Just Kiwi
-    document.querySelector('.just-kiwi').textContent = i18next.t('just_kiwi');
+    const justKiwi = document.querySelector('.just-kiwi');
+    if (justKiwi) justKiwi.textContent = i18next.t('just_kiwi');
     
     // Tam ekran butonu
     const fullscreenButton = document.getElementById('fullscreen-button');
@@ -403,14 +414,4 @@ function changeLanguage(lang) {
 // Dil seçiciyi ekle
 function addLanguageSelector() {
     const languageSelector = document.createElement('div');
-    languageSelector.className = 'language-selector';
-    languageSelector.innerHTML = `
-        <label for="lang-select">${i18next.t('lang_selector')}</label>
-        <select id="lang-select">
-            <option value="tr">Türkçe</option>
-            <option value="en">English</option>
-            <option value="de">Deutsch</option>
-            <option value="es">Español</option>
-            <option value="fr">Français</option>
-            <option value="it">Italiano</option>
-            <option value="pt">Português</option>
+    languageSelector.
