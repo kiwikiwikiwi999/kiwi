@@ -310,19 +310,12 @@ function updateContent() {
     document.title = i18next.t('title');
     
     // Meta etiketleri güncelle
-    const metaTags = [
-        document.querySelector('meta[name="description"]'),
-        document.querySelector('meta[property="og:description"]'),
-        document.querySelector('meta[name="twitter:description"]')
-    ];
-    
-    metaTags.forEach(tag => {
-        if (tag) tag.setAttribute('content', i18next.t('description'));
-    });
+    document.querySelector('meta[name="description"]').setAttribute('content', i18next.t('description'));
+    document.querySelector('meta[property="og:description"]').setAttribute('content', i18next.t('description'));
+    document.querySelector('meta[name="twitter:description"]').setAttribute('content', i18next.t('description'));
     
     // Ana başlık
-    const titleElement = document.querySelector('.kiwi-title');
-    if (titleElement) titleElement.textContent = i18next.t('title');
+    document.querySelector('.kiwi-title').textContent = i18next.t('title');
     
     // Açıklama metni
     const descriptionP = document.querySelector('.description p');
@@ -333,12 +326,10 @@ function updateContent() {
     }
     
     // X hesabı butonu
-    const xButton = document.querySelector('.buttons .btn');
-    if (xButton) xButton.textContent = i18next.t('x_account');
+    document.querySelector('.buttons .btn').textContent = i18next.t('x_account');
     
     // Nasıl alınır başlığı
-    const subtitleElement = document.querySelector('.subtitle');
-    if (subtitleElement) subtitleElement.textContent = i18next.t('how_to_buy');
+    document.querySelector('.subtitle').textContent = i18next.t('how_to_buy');
     
     // Adımlar
     const steps = document.querySelectorAll('.steps li');
@@ -373,8 +364,7 @@ function updateContent() {
     }
     
     // Satın alma butonu
-    const buyButton = document.querySelector('.buy-button .btn');
-    if (buyButton) buyButton.textContent = i18next.t('buy_button');
+    document.querySelector('.buy-button .btn').textContent = i18next.t('buy_button');
     
     // Yasal uyarı
     const disclaimerP = document.querySelector('.disclaimer p');
@@ -383,8 +373,7 @@ function updateContent() {
     }
     
     // Just Kiwi
-    const justKiwi = document.querySelector('.just-kiwi');
-    if (justKiwi) justKiwi.textContent = i18next.t('just_kiwi');
+    document.querySelector('.just-kiwi').textContent = i18next.t('just_kiwi');
     
     // Tam ekran butonu
     const fullscreenButton = document.getElementById('fullscreen-button');
@@ -418,4 +407,10 @@ function addLanguageSelector() {
     languageSelector.innerHTML = `
         <label for="lang-select">${i18next.t('lang_selector')}</label>
         <select id="lang-select">
-            <option value
+            <option value="tr">Türkçe</option>
+            <option value="en">English</option>
+            <option value="de">Deutsch</option>
+            <option value="es">Español</option>
+            <option value="fr">Français</option>
+            <option value="it">Italiano</option>
+            <option value="pt">Português</option>
